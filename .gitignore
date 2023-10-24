@@ -72,3 +72,23 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+*.MP4
+UltraDynamicSky
+Movies
+1stScence
+2ndScence
+3rdScence
+airship
+ballon
+Blueprints
+Collections
+DeathTrapsVol_1
+Developers
+FlyMonster
+Geometry
+ground
+InfinityBladeEffects
+MiniGames
+MS_BrickFloorV1
+StarterContent
